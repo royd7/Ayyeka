@@ -396,3 +396,5 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+/CensusApi/CensusApp/app_data/datainfo.json
+/CensusApi/CensusApp/app_data/exercise.csv
